@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1519914090 source:c:\users\azbyn\desktop\snake\main.cpp
+	"point.h"
+	"misc.h"
+	"prophanity.h"
+	<curses.h>
+	<signal.h>
+	<stdint.h>
+	<fstream>
+	<chrono>
+	<queue>
+	<random>
+	<string>
+	<thread>
+
+1519912894 c:\users\azbyn\desktop\snake\point.h
+	<string>
+
+1519912894 c:\users\azbyn\desktop\snake\misc.h
+	<array>
+	<memory>
+	<string>
+	<utility>
+
+1519912894 c:\users\azbyn\desktop\snake\prophanity.h
+	"point.h"
+	<curses.h>
+
+1220933418 c:\users\azbyn\desktop\snake\includes\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
